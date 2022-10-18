@@ -1,4 +1,6 @@
 {
 
-	"name": "SysML Library - Joint Common System Functions"
+	"name": "SysML Library - Joint Common System Functions",
+	"description":"sysml model of the JCSF list",
+	"repoURL":"https://github.com/ealexander22/SysML-Joint-Common-System-Functions-Library.git"
 }
